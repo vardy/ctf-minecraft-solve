@@ -1,0 +1,2 @@
+Minecraft world contains hypothetical password lock. Script outputs the permutations of offsets for the wheel within the world. One of the outputs, converted to ASCII is the flag.
+Minecraft world contained in Password_Manager.zip.
